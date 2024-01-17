@@ -1,6 +1,7 @@
-<!--<nav class="navbar navbar-expand-lg navbar-light bg-light">-->
-<!--<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark mb-5">-->
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark mb-5"  style="background-color: #1555e5;">
+<!--<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">-->
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark mb-5">
+<!--<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary mb-5">-->
+<!--<nav class="navbar fixed-top navbar-expand-lg navbar-dark mb-5"  style="background-color: #1555e5;">-->
 
 
     <a class="navbar-brand" href="#">Navbar</a>
